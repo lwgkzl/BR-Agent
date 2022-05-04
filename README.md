@@ -4,11 +4,15 @@
 
 ## Installation：
 
-pip install tianshou==0.3.0
+pip install tianshou==0.3.0 
+
 pip install pgmpy
+
 pip install pytorch=1.4
+
 
 ## Running :
 
 cd Train/
+
 python dx_train_norm.py for Dxy dataset
