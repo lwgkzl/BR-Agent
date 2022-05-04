@@ -15,4 +15,4 @@ pip install pytorch=1.4
 
 cd Train/
 
-python dx_train_norm.py       \\ for Dxy dataset
+python dx_train_norm.py       \# for Dxy dataset
