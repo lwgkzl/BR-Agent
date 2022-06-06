@@ -1,6 +1,6 @@
 # BR-Agent
 
-*This is the repository of IJCAI'2022 paper: "'My nose is running.''Are you also coughing?': Building A Medical Diagnosis Agent with Interpretable Inquiry Logics".* [ref](https://arxiv.org/abs/2204.13953)
+*This is the repository of IJCAI'2022 paper: ["'My nose is running.''Are you also coughing?': Building A Medical Diagnosis Agent with Interpretable Inquiry Logics"](https://arxiv.org/abs/2204.13953).*
 
 ## Installation：
 
